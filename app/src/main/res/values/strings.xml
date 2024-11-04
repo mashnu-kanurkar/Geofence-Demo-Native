@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Geofence Demo</string>
+    <string name="location_label">Current location is</string>
+</resources>
